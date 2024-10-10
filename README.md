@@ -11,7 +11,7 @@ O dashboard está organizado da seguinte forma:
 - **Vendas**
 - **Serviços**
 
-![Capa do Dashboard](capa1.jfif)
+![Capa do Dashboard](capa.jfif)
 
 ## Principais Indicadores
 
